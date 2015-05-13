@@ -3,9 +3,9 @@
   "ProjectGuid": "ae23925e-f00d-4efa-a817-dbe346c9ef82",
   "projectVersion": 1,
   "AppIdentifier": "com.telerik.ISAMDAIFALLAH",
-  "DisplayName": "ISAMDAIFALLAH",
-  "Author": "",
-  "Description": "",
+  "DisplayName": "Isam Daifallah",
+  "Author": "Isam Daifallah",
+  "Description": "Isam's First APP",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
